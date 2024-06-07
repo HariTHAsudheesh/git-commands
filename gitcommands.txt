@@ -1,1 +1,18 @@
 git commands text file
+
+git config --list [shows git username,email]
+
+git config --global user.name "username"
+
+git config --global user.email "email id"
+
+git init [initializing git repository]
+
+git status[list all untracked file]
+
+git add -A [adding all untracked files to staging area]
+
+git commit -m "commit message"
+
+git branch [list all branches]
+
